@@ -1,0 +1,22 @@
+{
+  "name": "palworld-trainer",
+  "displayName": "Palworld Trainer",
+  "programType": "trainer",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Player settings",
+    "Companion groups",
+    "Inventory categories"
+  ],
+  "topics": [
+    "palworld-trainer",
+    "palworld-tools",
+    "palworld-menu",
+    "palworld-settings",
+    "palworld-configs",
+    "palworld-player-settings",
+    "palworld-companion-groups"
+  ]
+}
